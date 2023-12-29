@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "617201668420",
+    "firebase_url": "https://lab-4---nur-afiqah-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "lab-4---nur-afiqah",
+    "storage_bucket": "lab-4---nur-afiqah.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617201668420:android:3656c5eba8105ed3aa8711",
+        "android_client_info": {
+          "package_name": "com.example.lab4_nurafiqah"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0_yMQr7X7uujZi7qWHBbL1lzlde3uq7s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617201668420:android:f0fedb4f749ebef6aa8711",
+        "android_client_info": {
+          "package_name": "com.example.nurafiqah_lab4"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0_yMQr7X7uujZi7qWHBbL1lzlde3uq7s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
